@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: Haruki Shinn # the main title
 
-tagline: What the hell are we dying for? # it will display as the subtitle
+tagline: Wir müssen wissen, wir werden wissen. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
